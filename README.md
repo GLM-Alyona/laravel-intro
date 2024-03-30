@@ -35,8 +35,8 @@ mockery/mockery                    1.6.11  Mockery is a simple yet flexible PHP 
 monolog/monolog                    3.5.0   Sends your logs to files, sockets, inboxes, databases and various web services
 myclabs/deep-copy                  1.11.1  Create deep copies (clones) of your objects
 nesbot/carbon                      3.2.2   An API extension for DateTime that supports 281 different languages.
-nette/schema                       v1.3.0  � Nette Schema: validating data structures against a given Schema.
-nette/utils                        v4.0.4  �  Nette Utils: lightweight utilities for string & array manipulation, image handling, safe JSON e ncoding/decoding, validation, slu...
+nette/schema                       v1.3.0  Nette Schema: validating data structures against a given Schema.
+nette/utils                        v4.0.4  Nette Utils: lightweight utilities for string & array manipulation, image handling, safe JSON e ncoding/decoding, validation, slu...
 nikic/php-parser                   v5.0.2  A PHP parser written in PHP
 nunomaduro/collision               v8.1.1  Cli error handling for console/command-line PHP applications.
 nunomaduro/termwind                v2.0.1  Its like Tailwind CSS, but for the console.
